@@ -12,7 +12,7 @@
 
 <table>
   <tr>
-    <td>
+       <td>
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=JoaoVithorr&theme=dracula&hide_border=false&include_all_commits=true"
@@ -41,8 +41,8 @@
 
 #### Skills and Tools
 <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> <img width="35" heighy="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /><img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-        
-          
+
+
           
           
           
