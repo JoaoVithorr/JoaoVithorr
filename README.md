@@ -1,6 +1,6 @@
 ### Hi 🤚 I'm João Vithor! 
 
-- 🔭 I’m a Software Engineer student who loves technology <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+- 🔭 I’m a Software Engineer student who loves technology <img src="https://github.com/JoaoVithorr/JoaoVithorr/assets/164553219/fd9dbbb2-469b-4ceb-97b7-159fbca7282a" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 - 🌱 I’m currently learning <img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />   
 - ⚡ I'm interested in web development
 
@@ -16,14 +16,14 @@
        <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=JoaoVithorr&theme=dracula&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=JoaoVithorr&theme=merko&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVithorr&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVithorr&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
@@ -31,7 +31,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVithorr&theme=dracula&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVithorr&theme=merko&hide_border=false"
         alt="Github Stats"
       />
     </td>
