@@ -1,7 +1,7 @@
 ### Hi 🤚 I'm João Vithor! 
 
 - 🔭 I’m a Software Engineer student who loves technology <img src="https://github.com/JoaoVithorr/JoaoVithorr/assets/164553219/fd9dbbb2-469b-4ceb-97b7-159fbca7282a" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
-- 🌱 I’m currently learning <img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />   
+- 🌱 I’m currently learning <img width="20" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />   
 - ⚡ I'm interested in web development
 
 ### Skills and Tools
