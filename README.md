@@ -30,7 +30,7 @@
     <td>
       <br />
       <img
-        align="center"
+        align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVithorr&theme=merko&hide_border=false"
         alt="Github Stats"
       />
