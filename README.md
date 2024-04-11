@@ -2,7 +2,7 @@
 
 - 🔭 I’m a Software Engineer student who loves technology <img src="https://github.com/JoaoVithorr/JoaoVithorr/assets/164553219/fd9dbbb2-469b-4ceb-97b7-159fbca7282a" alt="ilustração de um computador" min-width="320px" max-width="320px" width="320px" align="right">
 - 🌱 I’m currently learning <img width="25" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />   
-- ⚡ I'm interested in web development
+- ⚡ I'm interested in web development!
 
 ### Skills and Tools
 <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
