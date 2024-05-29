@@ -1,7 +1,6 @@
 ## Hi 🤚 I'm João Vithor! 
 
 - 🔭 I’m a Software Engineer student who loves technology
-- Currently Studying Express
 - ⚡ I'm interested in web development!
 
 ### Skills and Tools
