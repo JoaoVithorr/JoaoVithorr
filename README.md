@@ -1,7 +1,6 @@
 # Hi 🤚 I'm João Vithor! 
 
-- 🔭 I’m a Computer Engineer student who loves technology
-- I'm a Full Stack Engineer (PHP and Vue.js)
+- 🔭 I’m a Full Stack Developer who loves technology
 
 ## Skills and Tools
 <img width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <img width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> 
